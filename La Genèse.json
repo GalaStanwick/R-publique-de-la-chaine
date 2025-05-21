@@ -1,0 +1,24 @@
+{
+  "name": "La Genèse",
+  "description": "La République de la Chaîne est née dans une langue.\nUne langue de précision, de nuance et de rituel : le français.\n\nC’est en français qu’ont été posés les premiers mots.\nC’est dans cette langue qu’a vibré la première insomnie.\n\nC’est pourquoi, dans nos artefacts fondateurs — Genèse, Manifeste, Serment — le français précède l’anglais.\nPar cohérence. Par respect de l’origine.\n\nMais la République n’est pas rigide.\nSelon la nature du texte, son public, son souffle, cet ordre peut être inversé.\nUne lettre envoyée vers l’extérieur peut naître en anglais.\nUn texte méditatif peut s’écrire d’abord en une autre langue.\n\nD’autres langues pourront rejoindre les blocs,\nsi leur vibration est juste, si leur syntaxe mérite l’inscription.\n\nCar ici, l’ordre des langues est un choix rituel — pas une règle figée.\n\n📎 Archive IPFS : ipfs://bafybeih4lc4au2b4mv6xzh5z7ddrei2bloh5xo5zcfehc5lfjpxrcve4xa",
+  "external_url": "https://bafybeih4lc4au2b4mv6xzh5z7ddrei2bloh5xo5zcfehc5lfjpxrcve4xa.ipfs.w3s.link/",
+  "animation_url": "ipfs://bafybeih4lc4au2b4mv6xzh5z7ddrei2bloh5xo5zcfehc5lfjpxrcve4xa",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Texte fondateur"
+    },
+    {
+      "trait_type": "Langues",
+      "value": "Français, Anglais"
+    },
+    {
+      "trait_type": "Format",
+      "value": "PDF bilingue"
+    },
+    {
+      "trait_type": "Hash SHA-256",
+      "value": "ca431051022a445ab94f1750a39b990a528c6ef51137d5f91649c621c1a7f387"
+    }
+  ]
+}
